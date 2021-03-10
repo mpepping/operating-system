@@ -1,5 +1,5 @@
 version: "1"
 rules:
   - base: master
-    upstream: home-assistant:master
+    upstream: home-assistant:dev
     mergeMethod: hardreset
